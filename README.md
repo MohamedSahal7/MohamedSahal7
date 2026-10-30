@@ -18,20 +18,6 @@ I'm a passionate **Full-stack web developer** with experience in **HTML, CSS, Ja
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-## Featured Projects 💻
-
-### [Project 1 Title](project_1_link)
-
-![Project 1 Screenshot](project_1_screenshot_url)
-
-**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
-
-### [Project 2 Title](project_2_link)
-
-![Project 2 Screenshot](project_2_screenshot_url)
-
-**[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
-
 ## Get in Touch 📬
 
 - **[LinkedIn]**(https://www.linkedin.com/in/sahal-aden-a122b53b8/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BfKVgU9gdT6WP1NKEd2HPTA%3D%3D)
