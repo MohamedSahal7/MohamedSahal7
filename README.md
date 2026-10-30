@@ -1,15 +1,13 @@
-# Hi there, I'm [Sahal Mohamed]! 👋
-
-![Banner Image](your_banner_image_url_here)
+# Hi there, I'm Sahal Mohamed! 👋
 
 ## About Me 🚀
 
-I'm a passionate **[Full-stack web developer]** with experience in **[HTML, CSS, JavaScript, React, Python, and Flask]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate **Full-stack web developer** with experience in **HTML, CSS, JavaScript, React, Python, and Flask**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: **[Django]**
-- 🔭 Working on: **[Library Management System]**
-- 🌍 Languages: **[English and Kiswahili]**
-- 📫 How to reach me: **[adensahal99@gmail.com]**
+- 🌱 Currently learning: **Django**
+- 🔭 Working on: **Library Management System**
+- 🌍 Languages: **English and Kiswahili**
+- 📫 How to reach me: **adensahal99@gmail.com**
 
 ## My Skills 🧠
 
@@ -19,8 +17,6 @@ I'm a passionate **[Full-stack web developer]** with experience in **[HTML, CSS,
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-*Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
 
 ## Featured Projects 💻
 
@@ -38,6 +34,6 @@ I'm a passionate **[Full-stack web developer]** with experience in **[HTML, CSS,
 
 ## Get in Touch 📬
 
-- **[LinkedIn]**(your_linkedin_profile_link)
+- **[LinkedIn]**(https://www.linkedin.com/in/sahal-aden-a122b53b8/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BfKVgU9gdT6WP1NKEd2HPTA%3D%3D)
 
 
